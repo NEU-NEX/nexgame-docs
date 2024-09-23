@@ -6,14 +6,15 @@
 
 - [Windows](./env/win/main.md)
     - [Visual Studio](./env/win/vs.md)
-    - [Python]()
+    - [Python](./env/win/py.md)
     - [Java]()
     - [IDA]()
     - [调试器]()
-- [Linux]()
+- [Linux](./env/linux/main.md) <!--建议统一以Kali为环境讲-->
     - [虚拟机]()
-    - [WSL]()
+    - [WSL](./env/linux/wsl.md)
     - [调试器]()
+- [VS Code]()
 
 # 相关技术
 
