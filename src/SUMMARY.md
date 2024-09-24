@@ -1,6 +1,8 @@
 # Summary
 
 - [序](./chapter_1.md)
+    - [shell](./shell.md)
+    - [git](./git.md)
 
 # 环境配置
 
@@ -17,6 +19,7 @@
     - [调试器]()
     - [Docker]()
 - [VS Code]()
+- [Python包]()
 
 # 相关技术
 
