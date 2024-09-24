@@ -15,18 +15,16 @@ wsl --install -d kali-linux
 
 ### 改变安装路径
 
-TODO: 来个人翻译成中文
-
-参考：<https://www.kali.org/docs/wsl/wsl-preparations/#import-rootfs>
+TODO: 来个人本地化一下，参考：<https://www.kali.org/docs/wsl/wsl-preparations/#import-rootfs>
 
 ### 下载完整的kali工具
 
-TODO: 来个人翻译成中文
+TODO: 来个人本地化一下，参考：
 
 - <https://www.kali.org/docs/troubleshooting/common-minimum-setup/>
 - <https://www.kali.org/docs/general-use/metapackages/>
 
-## 文件互通 <!--TODO: 待补全-->
+## 文件互通 <!--TODO: 待补全，包括路径映射，直接执行Windows程序-->
 
 ### VS Code无缝编辑
 当你的Windows系统中存在VS Code时，你可以在WSL中像vim一样调用它，把vim扔掉吧。
@@ -44,9 +42,10 @@ auto proxy
 
 ## 图形界面（KEX）
 
-TODO: 来个人翻译成中文
+TODO: 来个人本地化一下，参考：<https://www.kali.org/docs/wsl/win-kex/>
 
-你可以一键启动Kali Linux的图形界面来运行图形程序。  
+你可以一键启动Kali Linux的图形界面来运行图形程序。
+
 ![kex](./kex.png)  
 
-参考：<https://www.kali.org/docs/wsl/win-kex/>  
+
