@@ -10,3 +10,4 @@ renderer = ["html"]
 marker = "[toc]"
 [output.html]
 git-repository-url = "https://github.com/zhufengning/nexgame-docs"
+edit-url-template = "https://github.com/zhufengning/nexgame-docs/edit/main/guide/{path}"

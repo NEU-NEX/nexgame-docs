@@ -12,11 +12,11 @@ wsl --install -d kali-linux
 - <https://learn.microsoft.com/zh-cn/windows/wsl/install>
 
 ### 改变安装路径
-<!--TODO: 来个人翻译成中文-->
+TODO: 来个人翻译成中文
 参考：<https://www.kali.org/docs/wsl/wsl-preparations/#import-rootfs>
 
 ### 下载完整的kali工具
-<!--TODO: 来个人翻译成中文-->
+TODO: 来个人翻译成中文
 - <https://www.kali.org/docs/troubleshooting/common-minimum-setup/>
 - <https://www.kali.org/docs/general-use/metapackages/>
 
@@ -33,7 +33,7 @@ code [file-to-edit]
 待补全
 
 ## 图形界面（KEX）
-<!--TODO: 来个人翻译成中文-->
+TODO: 来个人翻译成中文
 你可以一键启动Kali Linux的图形界面来运行图形程序。  
 ![kex](./kex.png)  
 
