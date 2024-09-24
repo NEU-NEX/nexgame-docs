@@ -5,7 +5,7 @@
 只讨论WSL2。如过你需要自己搜索额外的教程，请注意教程发布时间，以一年内为佳，两年内也行。尽量只参考官方文档。
 
 ## 安装
-在最新的系统中，理论上只需一行命令（这行命令会自动启用相关“Windows功能”，无须在控制面板中进行额外操作）  
+在最新的系统中，理论上只需一行[shell](../../shell.md)命令（这行命令会自动启用相关“Windows功能”，无须在控制面板中进行额外操作）  
 ```
 wsl --install -d kali-linux
 ```
@@ -23,6 +23,12 @@ TODO: 来个人本地化一下，参考：
 
 - <https://www.kali.org/docs/troubleshooting/common-minimum-setup/>
 - <https://www.kali.org/docs/general-use/metapackages/>
+
+## 安装后如何启动
+
+在shell这一章节中你应该已经安装了“终端”，请参考下图。
+![launch wsl](./launch_wsl.png)
+
 
 ## 文件互通 <!--TODO: 待补全，包括路径映射，直接执行Windows程序-->
 

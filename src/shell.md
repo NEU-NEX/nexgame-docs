@@ -8,5 +8,5 @@
 
 ## 如何启动shell
 
-- Windows: 在Microsoft Store安装“终端”后，启动它
+- Windows: 在Microsoft Store(微软商店)安装“终端”后，启动它
 - Linux: 找到名为“终端”/“terminal”的应用，启动它
