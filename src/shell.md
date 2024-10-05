@@ -6,11 +6,17 @@
 
 几乎所有您能够接触到的平台都支持某种形式的 shell，有些甚至还提供了多种 shell 供您选择。虽然它们之间有些细节上的差异，但是其核心功能都是一样的：它允许你执行程序，输入并获取某种半结构化的输出。
 
+建议先学Linux shell再学Windows的。
+
 ## 如何启动shell
 
 - Windows: 在Microsoft Store(微软商店)安装“终端”后，启动它
 - Linux: 找到名为“终端”/“terminal”的应用，启动它
 
-### 《快乐的Linux 命令行》中英文对照版电子书
+## 《快乐的Linux 命令行》中英文对照版电子书
 
 地址：<http://billie66.github.io/TLCL/book/>
+
+## (Windows)PowerShell 新手入门
+
+<https://sspai.com/prime/story/powershell-primer-01>
