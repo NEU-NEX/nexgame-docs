@@ -10,3 +10,7 @@
 
 - Windows: 在Microsoft Store(微软商店)安装“终端”后，启动它
 - Linux: 找到名为“终端”/“terminal”的应用，启动它
+
+### 《快乐的Linux 命令行》中英文对照版电子书
+
+地址：<http://billie66.github.io/TLCL/book/>
