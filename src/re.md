@@ -332,7 +332,7 @@ upx -d [filename]
 
 Hook 是在指令的关键位置插入特定代码，以干预程序原有的执行流程，实现拦截目标进程运行过程的关键信息改变目标进程原本执行流程等目的。
 
-(题目3中的TraceMe和hooking.js)
+(题目3中的TraceMe和hooking.js是使用frida框架的例子)
 
 ---
 
