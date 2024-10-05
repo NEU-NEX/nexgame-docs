@@ -200,6 +200,8 @@ esp是栈指针，它存储当前堆底地址。
 
 在 x86 架构中，ESP（中保存的地址）和EBP（中保存的地址）之间的区域通常称为栈帧。栈帧是每个函数调用时在栈上分配的一块内存，用于保存函数的局部变量、返回地址、传递的参数以及保存调用者的寄存器状态。
 
+更详细的：<https://textbook.cs161.org/memory-safety/x86.html#27-x86-calling-convention>
+
 
 ![push](./img/stack0.png)
 
