@@ -9,4 +9,4 @@
 ![py site](./py_site.png)
 
 ## Python常用包
-[链接](../../py_packages.md)
+[链接](../py.md)
