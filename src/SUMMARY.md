@@ -19,7 +19,7 @@
     - [Docker](./env/linux/docker.md)
 - [Python包](./env/py.md)
 
-# 相关技术
+# 快速了解各个方向
 
 - [Web](./web.md)
 - [密码](./crypto.md)
