@@ -21,8 +21,8 @@
 
 # 快速了解各个方向
 
-- [Web](./web.md)
-- [密码](./crypto.md)
+- [Web(无内容)](./web.md)
+- [密码(无内容)](./crypto.md)
 - [二进制 - 逆向](./re.md)
 - [二进制 - pwn](./pwn.md)
     
