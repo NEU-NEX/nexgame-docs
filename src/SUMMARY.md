@@ -1,6 +1,7 @@
 # Summary
 
 - [序](./chapter_1.md)
+    - [“缺失的一课”](./missing.md)
     - [shell](./shell.md)
     - [git](./git.md)
     - [docker](./docker.md)
