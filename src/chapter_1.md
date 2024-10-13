@@ -10,4 +10,6 @@ CTF/比赛平台：<https://www.neu-nex.fun/>
 
 **NEX招新群：189383810**
 
+[提问的智慧](https://lug.ustc.edu.cn/wiki/doc/smart-questions/)
+
 如果你看不到目录，请点击左上角的菜单键<i class="fa fa-bars"></i>

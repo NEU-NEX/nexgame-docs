@@ -2,9 +2,11 @@
 
 - [序](./chapter_1.md)
     - [“缺失的一课”](./missing.md)
-    - [shell](./shell.md)
-    - [git](./git.md)
-    - [docker](./docker.md)
+    - [工具们](./tools.md)
+        - [shell](./shell.md)
+        - [git](./git.md)
+        - [docker](./docker.md)
+    - [收藏夹](./bookmark.md)
 
 # 环境配置
 

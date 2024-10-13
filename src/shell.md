@@ -12,6 +12,7 @@
 
 - Windows: 在Microsoft Store(微软商店)安装“终端”后，启动它
 - Linux: 找到名为“终端”/“terminal”的应用，启动它
+    > 也许你需要先 [获得一个Linux环境](./env/linux/wsl.md)
 
 ## 《快乐的Linux 命令行》中英文对照版电子书
 
