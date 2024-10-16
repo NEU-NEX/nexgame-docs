@@ -45,6 +45,7 @@
 
 [crypto论文查询网站](https://eprint.iacr.org/): crypto的论文基本都在这个网站上。  
 
+数论入门教材：[信息安全数学基础](https://pan.quark.cn/s/f60b487be9d5) 讲得有点杂，挑重点看
 持续完善中。。。。。
 
 
