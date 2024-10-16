@@ -8,7 +8,7 @@
 **纸和笔**，个人感觉crypto应该是ctf唯一要手算的，有些东西光看可能看不出来，拿笔写写会想得比较明白。
 
 # 基础知识  
-首先，现代密码学是需要一定的理论知识，基本上是**数论**的知识(用不着学很深，留个印象，知道怎么算就行)，随着学习的深入，你会逐渐加深理解。对于入门来说，你需要掌握以下概念(可能会有未涉及到的), **模运算**，**逆元**，**欧拉函数**，**最大公因数的求解**，**费马小定理**等。
+首先，现代密码学是需要一定的理论知识，基本上是**数论**的知识(用不着学很深，留个印象，知道怎么算就行)，随着学习的深入，你会逐渐加深理解。对于入门来说，你需要掌握以下概念(可能会有未涉及到的), **模运算**，**逆元**，**欧拉函数**，**最大公因数的求解**，**费马小定理**等。  
 
 其次，需要掌握python的基本语法以及sagemath里常用的一些库函数。
 
@@ -27,15 +27,17 @@
 
 # 学习资料：
 ## 博客推荐：
-[密码学简介 - CTF Wiki (ctf-wiki.org)](https://ctf-wiki.org/crypto/introduction/):ctf-wiki，虽然不全，但是讲得挺好  
+[密码学简介 - CTF Wiki (ctf-wiki.org)](https://ctf-wiki.org/crypto/introduction/):ctf-wiki，比较成体系，讲得挺好的，虽然有部分未涉及，但对于新生入门足以。  
 
-[类别: crypto | Lazzaro (lazzzaro.github.io)](https://lazzzaro.github.io/categories/crypto/): lazzaro佬的博客，密码祖师爷，比较全。  
+[类别: crypto | Lazzaro (lazzzaro.github.io)](https://lazzzaro.github.io/categories/crypto/): lazzaro佬的博客，密码祖师爷，比较全，适合当工具书，不适合拿来学。    
 
-[Emmaaaaaaaaaa-CSDN博客](https://blog.csdn.net/XiongSiqi_blog?type=blog): Emmaaaaaaaaa讲得浅显易懂，适合新生入门。  
+[Emmaaaaaaaaaa-CSDN博客](https://blog.csdn.net/XiongSiqi_blog?type=blog): aa讲得浅显易懂，适合新生入门，但是主要是比赛wp。    
 
-[糖醋小鸡块的blog (tangcuxiaojikuai.xyz)](https://tangcuxiaojikuai.xyz/):主要是比赛wp，适合赛后复现，以及学到中后期的密码手。  
+[糖醋小鸡块的blog (tangcuxiaojikuai.xyz)](https://tangcuxiaojikuai.xyz/):主要是比赛wp，适合赛后复现，以及学到中后期的密码手。    
 
+[零知识证明](https://learn.zkpunk.pro/index.html): 如果有对密码学中的零知识证明感兴趣的，可以看看这篇。
 
+[格密码](https://cims.nyu.edu/~regev/teaching/lattices_fall_2009/): 格密码国内的资料基本都是参考这位国外大佬的课程讲义所写的、  
 
 持续完善中。。。。。
 
