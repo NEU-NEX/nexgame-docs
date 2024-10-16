@@ -29,9 +29,9 @@
 
 [CTF Wiki](https://ctf-wiki.org/crypto/introduction/):ctf-wiki，比较成体系，讲得挺好的，虽然有部分未涉及，但对于新生入门足以。  
 
-[类别: crypto | Lazzaro](https://lazzzaro.github.io/categories/crypto/): lazzaro佬的博客，密码祖师爷，比较全，适合当工具书，不适合拿来学。    
+[类别: crypto | Lazzaro](https://lazzzaro.github.io/categories/crypto/): lazzaro佬的博客，很全，适合当工具书。    
 
-[Emmaaaaaaaaaa-CSDN博客](https://blog.csdn.net/XiongSiqi_blog?type=blog): aa讲得浅显易懂，适合新生入门，但是主要是比赛wp。    
+[Emmaaaaaaaaaa-CSDN博客](https://blog.csdn.net/XiongSiqi_blog?type=blog): aa讲得浅显易懂，适合新生入门，主要是比赛wp。    
 
 [糖醋小鸡块的blog (tangcuxiaojikuai.xyz)](https://tangcuxiaojikuai.xyz/):主要是比赛wp，适合赛后复现，以及学到中后期的密码手。    
 
