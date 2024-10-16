@@ -39,6 +39,10 @@
 
 [格密码](https://cims.nyu.edu/~regev/teaching/lattices_fall_2009/): 格密码国内的资料基本都是参考这位国外大佬的课程讲义所写的、  
 
+[密码学课程](https://crypto.stanford.edu/~dabo/cs255/): Dan Boneh的密码学课程，讲得比较好。
+
+[区块链](https://ethernaut.openzeppelin.com/): 目前做得比较好的区块链靶场，wp可以看看这位佬的[区块链学习笔记：Ethernaut刷题记录](https://tover.xyz/p/Ethernaut-note/)  
+
 持续完善中。。。。。
 
 
