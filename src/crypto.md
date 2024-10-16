@@ -28,11 +28,9 @@
 # 学习资料：  
 [数论入门]:  信息安全数学基础(清华大学出版社)，看完前五章基本差不多了，挑重点的看。或者上网搜其他资料看，以下概念必须掌握：**模运算**，**逆元**，**欧拉函数**，**最大公因数的求解**，**费马小定理**,  **中国剩余定理**等。  
 
+[CTF Wiki](https://ctf-wiki.org/crypto/introduction/):ctf-wiki，比较成体系，讲得挺好的，虽然有部分未涉及，但对于新生入门足以。  
 
-
-[密码学简介 - CTF Wiki (ctf-wiki.org)](https://ctf-wiki.org/crypto/introduction/):ctf-wiki，比较成体系，讲得挺好的，虽然有部分未涉及，但对于新生入门足以。  
-
-[类别: crypto | Lazzaro (lazzzaro.github.io)](https://lazzzaro.github.io/categories/crypto/): lazzaro佬的博客，密码祖师爷，比较全，适合当工具书，不适合拿来学。    
+[类别: crypto | Lazzaro](https://lazzzaro.github.io/categories/crypto/): lazzaro佬的博客，密码祖师爷，比较全，适合当工具书，不适合拿来学。    
 
 [Emmaaaaaaaaaa-CSDN博客](https://blog.csdn.net/XiongSiqi_blog?type=blog): aa讲得浅显易懂，适合新生入门，但是主要是比赛wp。    
 
