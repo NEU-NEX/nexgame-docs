@@ -45,7 +45,7 @@
 
 [crypto论文查询网站](https://eprint.iacr.org/): crypto的论文基本都在这个网站上。  
 
-数论入门教材：[信息安全数学基础]([https://pan.quark.cn/s/f60b487be9d5](https://r2.zhufn.fun/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89%20(%E9%99%88%E6%81%AD%E4%BA%AE)%20(Z-Library).pdf)) 讲得有点杂，挑重点看  
+数论入门教材：[信息安全数学基础](https://r2.zhufn.fun/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89%20(%E9%99%88%E6%81%AD%E4%BA%AE)%20(Z-Library).pdf) 讲得有点杂，挑重点看  
 
 持续完善中。。。。。
 
