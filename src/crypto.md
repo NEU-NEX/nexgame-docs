@@ -1,4 +1,4 @@
-# crypto是什么?  
+![image](https://github.com/user-attachments/assets/082673eb-2c3d-4625-b3cd-0749033f277e)# crypto是什么?  
 
 密码学，但是由于种种原因，古典密码学基本很少在crypto里见到(被赶到misc里了)，更多考察现代密码学，同时也侧重于考察**密码分析学**，即发现并利用某个密码体系的漏洞。
 
@@ -35,13 +35,15 @@
 
 [糖醋小鸡块的blog (tangcuxiaojikuai.xyz)](https://tangcuxiaojikuai.xyz/):主要是比赛wp，适合赛后复现，以及学到中后期的密码手。    
 
-[零知识证明](https://learn.zkpunk.pro/index.html): 如果有对密码学中的零知识证明感兴趣的，可以看看这篇。
+[零知识证明-zkpunk](https://learn.zkpunk.pro/index.html): 如果有对密码学中的零知识证明感兴趣的，可以看看这篇。
 
-[格密码](https://cims.nyu.edu/~regev/teaching/lattices_fall_2009/): 格密码国内的资料基本都是参考这位国外大佬的课程讲义所写的、  
+[格密码-lattice](https://cims.nyu.edu/~regev/teaching/lattices_fall_2009/): 格密码国内的资料基本都是参考这位国外大佬的课程讲义所写的、  
 
-[密码学课程](https://crypto.stanford.edu/~dabo/cs255/): Dan Boneh的密码学课程，讲得比较好。
+[密码学课程-cs255](https://crypto.stanford.edu/~dabo/cs255/): Dan Boneh的密码学课程，讲得比较好。
 
-[区块链](https://ethernaut.openzeppelin.com/): 目前做得比较好的区块链靶场，wp可以看看这位佬的[区块链学习笔记：Ethernaut刷题记录](https://tover.xyz/p/Ethernaut-note/)  
+[区块链-blockchain](https://ethernaut.openzeppelin.com/): 目前做得比较好的区块链靶场，wp可以看看这位佬的[区块链学习笔记：Ethernaut刷题记录](https://tover.xyz/p/Ethernaut-note/) 
+
+[crypto论文查询网站](https://eprint.iacr.org/): crypto的论文基本都在这个网站上。  
 
 持续完善中。。。。。
 
