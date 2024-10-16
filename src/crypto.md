@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/082673eb-2c3d-4625-b3cd-0749033f277e)# crypto是什么?  
+# crypto是什么?  
 
 密码学，但是由于种种原因，古典密码学基本很少在crypto里见到(被赶到misc里了)，更多考察现代密码学，同时也侧重于考察**密码分析学**，即发现并利用某个密码体系的漏洞。
 
