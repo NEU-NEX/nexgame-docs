@@ -3,7 +3,7 @@ authors = ["zhufengning"]
 language = "zh-cn"
 multilingual = false
 src = "src"
-title = "NEX game文档站"
+title = "NEX 文档站"
 [preprocessor.toc]
 command = "./mdbook-toc"
 renderer = ["html"]
