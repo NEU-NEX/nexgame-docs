@@ -12,7 +12,7 @@
 
 装载运行流程如下：
 
-![image-20241016151441914](.\image-20241016151441914.png)
+![alt text](run.png)
 
 1. 在linux控制台程序[bash]中输入./hello
 2. bash会调用fork函数，并执行一个名为sys_execve的系统调用。
