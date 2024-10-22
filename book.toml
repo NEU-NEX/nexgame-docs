@@ -19,3 +19,6 @@ no-section-label = true
 [output.html.fold]
 enable = true
 evel = 1
+
+[preprocessor.katex]
+after = ["links"]
