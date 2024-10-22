@@ -1,11 +1,11 @@
 # Summary
 
 - [序](./chapter_1.md)
-    - [“缺失的一课”](./missing.md)
-    - [工具们](./tools.md)
-        - [shell](./shell.md)
-        - [git](./git.md)
-        - [docker](./docker.md)
+    - [“缺失的一课”](./note/other/missing.md)
+    - [工具们](./note/other/tools.md)
+        - [shell](./note/other/shell.md)
+        - [git](./note/other/git.md)
+        - [docker](./note/other/docker.md)
     - [收藏夹](./bookmark.md)
 
 # 环境配置
@@ -24,19 +24,21 @@
 
 # 快速了解各个方向
 
-- [Web](./web/main.md)
-    - [Web —— 引入](./web/intro.md)
-    - [Web —— 基础知识](./web/basic.md)
-    - [Web —— 从浏览器开始](./web/browser.md)
-    - [Web —— HTTP 协议](./web/http.md)
-    - [Web —— 后端应用](./web/backend.md)
-    - [Web —— 更进一步](./web/further.md)
-    - [样题 WriteUp](./web/sample-wp.md)
-- [密码](./crypto.md)
-- [二进制 - 逆向](./re.md)
-- [二进制 - pwn](./pwn/intro.md)
-    - [Pwn 介绍](./pwn/intro.md)
-    - [Pwn 内存映射](./pwn/link.md)
-    - [Pwn 漏洞与利用](./pwn/vuln.md)
-    - [Pwn 程序执行流程](./pwn/run.md)
+- [Web](./note/web/main.md)
+    - [Web —— 引入](./note/web/intro.md)
+    - [Web —— 基础知识](./note/web/basic.md)
+    - [Web —— 从浏览器开始](./note/web/browser.md)
+    - [Web —— HTTP 协议](./note/web/http.md)
+    - [Web —— 后端应用](./note/web/backend.md)
+    - [Web —— 更进一步](./note/web/further.md)
+    - [样题 WriteUp](./note/web/sample-wp.md)
+- [密码](./note/crypto.md)
+- [二进制 - 逆向](./note/re.md)
+- [二进制 - pwn](./note/pwn/intro.md)
+    - [Pwn 介绍](./note/pwn/intro.md)
+    - [Pwn 内存映射](./note/pwn/link.md)
+    - [Pwn 漏洞与利用](./note/pwn/vuln.md)
+    - [Pwn 程序执行流程](./note/pwn/run.md)
     
+- [WriteUP](./wp/intro.md)
+    - [「安恒杯」第二届 NEX 网络安全实践能力赛](./wp/2024/10/nexgame/intro.md)
