@@ -20,5 +20,3 @@ no-section-label = true
 enable = true
 evel = 1
 
-[preprocessor.katex]
-after = ["links"]
