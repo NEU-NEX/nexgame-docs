@@ -33,7 +33,7 @@
     - [Web —— 更进一步](./note/web/further.md)
     - [样题 WriteUp](./note/web/sample-wp.md)
 - [密码](./note/crypto.md)
-- [二进制 - 逆向](./note/re.md)
+- [二进制 - 逆向](./note/reverse/re.md)
 - [二进制 - pwn](./note/pwn/intro.md)
     - [Pwn 介绍](./note/pwn/intro.md)
     - [Pwn 内存映射](./note/pwn/link.md)
