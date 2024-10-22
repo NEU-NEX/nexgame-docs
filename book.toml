@@ -12,7 +12,7 @@ marker = "[toc]"
 command = "./mdbook-katex"
 after = ["links"]
 [output.html]
-git-repository-url = "https://github.com/zhufengning/nexgame-docs/tree/main/{path}"
+git-repository-url = "https://github.com/zhufengning/nexgame-docs/"
 edit-url-template = "https://github.com/zhufengning/nexgame-docs/edit/main/{path}"
 no-section-label = true
 
