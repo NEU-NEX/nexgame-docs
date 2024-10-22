@@ -44,7 +44,7 @@
 
 - [回顾](./wp/2024/10/nexgame/intro.md)
 
-- [官方 WriteUp](#)
+- [官方 WriteUp](./wp/2024/10/nexgame/83.md)
 
     - [Binary](./wp/2024/10/nexgame/83.md)
         - [【简单】从零开始的 CPP 生活](./wp/2024/10/nexgame/83.md)
