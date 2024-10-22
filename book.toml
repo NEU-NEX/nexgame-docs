@@ -11,4 +11,8 @@ marker = "[toc]"
 [output.html]
 git-repository-url = "https://github.com/zhufengning/nexgame-docs"
 edit-url-template = "https://github.com/zhufengning/nexgame-docs/edit/main/{path}"
-fold = true
+no-section-label = true
+
+[output.html.fold]
+enable = true
+evel = 1
