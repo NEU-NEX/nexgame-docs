@@ -40,7 +40,7 @@
     - [Pwn 漏洞与利用](./note/pwn/vuln.md)
     - [Pwn 程序执行流程](./note/pwn/run.md)
     
-# 「安恒杯」第二届 NEX 网络安全实践能力赛
+# 「安恒杯」第二届 NEX 网络安全大赛
 
 - [回顾](./wp/2024/10/nexgame/intro.md)
 
