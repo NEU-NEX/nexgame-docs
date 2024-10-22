@@ -43,3 +43,4 @@
 # WriteUP
 
 - [「安恒杯」第二届 NEX 网络安全实践能力赛](./wp/2024/10/nexgame/intro.md)
+- [test_katex](./wp/2024/10/nexgame/126.md)

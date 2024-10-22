@@ -8,6 +8,9 @@ title = "NEX 文档站"
 command = "./mdbook-toc"
 renderer = ["html"]
 marker = "[toc]"
+[preprocessor.katex]
+command = "./mdbook-katex"
+after = ["links"]
 [output.html]
 git-repository-url = "https://github.com/zhufengning/nexgame-docs"
 edit-url-template = "https://github.com/zhufengning/nexgame-docs/edit/main/{path}"
@@ -17,5 +20,3 @@ no-section-label = true
 enable = true
 evel = 1
 
-[preprocessor.katex]
-after = ["links"]
