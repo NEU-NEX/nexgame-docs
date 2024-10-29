@@ -39,6 +39,9 @@
     - [Pwn 内存映射](./note/pwn/link.md)
     - [Pwn 漏洞与利用](./note/pwn/vuln.md)
     - [Pwn 程序执行流程](./note/pwn/run.md)
+    - [Pwn 调用约定](./note/pwn/calling_conventions.md)
+    - [Pwn 栈帧](./note/pwn/stackframe.md)
+    - [Pwn ROP技术](./note/pwn/rop.md)
     
 # 「安恒杯」第二届 NEX 网络安全大赛
 
