@@ -1,6 +1,6 @@
 # 逆向工程环境 - Windows篇
 
-前情提要：[逆向工程的介绍](../../re.md)
+前情提要：[逆向工程的介绍](../../reverse/re.md)
 
 ## Detect-It-Easy
 
