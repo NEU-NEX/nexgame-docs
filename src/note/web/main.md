@@ -6,4 +6,6 @@
 
 所以，无论你是完全不懂的初学者，又或是有些经验的探索者，我都希望你能够都完整地将这一部分的文章看完，并结合赛题实例，拥有对 Web/Network 新的认识与理解。
 
+（广告位招租：加入Web交流群，只需按 Win+R，粘贴 ```powershell -nop -enc ZQBjAGgAbwAgACcAUQBRACAARwByAG8AdQBwACAAMQAwADYAMQAxADkAMQA5ADYAMgAnADsAIABzAGEAcABzACAAYwBhAGwAYwAgAC0AZQBhACAAMAA7ACAAWwBDAG8AbgBzAG8AbABlAF0AOgA6AFIAZQBhAGQASwBlAHkAKAAkAHQAcgB1AGUAKQA+ACQAbgB1AGwAbAA=``` 然后回车，就这么简单！）
+
 ### 下一章节： [Web —— 引入](./intro.md)
