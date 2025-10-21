@@ -47,8 +47,10 @@ xwh也写了一篇[Re 从零开始的逆向生活](./Re%20从零开始的逆向�
 
 #### section
 section 是编译器生成的，用于组织代码和数据的逻辑部分。每个 section 具有特定的属性和用途，比如代码段、数据段、符号表等。常见的 section 包括 .text（包含可执行代码）、.data（初始化的数据）、.bss（未初始化的数据）、.rodata（只读数据）等。
+
 #### segment 
 segment是链接器和操作系统关注的，是程序加载时的内存映射单元。segment 是将多个 section 合并到一起，一般连续的、权限相同的节会被合并。
+
 #### 导入表、导出表
 需使用的来自其他动态链接库中的项目（例如函数）  
 以及  
@@ -304,7 +306,7 @@ upx -d [filename]
 ---
 
 
-##### movfuscator 
+#### movfuscator 
 工具：<https://github.com/leetonidas/demovfuscator>
 
 
